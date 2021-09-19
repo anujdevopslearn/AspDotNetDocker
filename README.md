@@ -2,6 +2,7 @@
 
 This ASP.NET Core Docker sample demonstrates a best practice pattern for building Docker images for ASP.NET Core apps for production. The sample works with both Linux and Windows containers.
 
+
 The [sample Dockerfile](Dockerfile) creates an ASP.NET Core application Docker image based off of the [ASP.NET Core Runtime Docker image](https://hub.docker.com/r/microsoft/aspnetcore/).
 
 ## Build and run the sample with Docker for Linux containers
